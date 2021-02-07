@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "simpleprobecard")(type "KiCad")(uri "${KIPRJMOD}/simpleprobecard.pretty")(options "")(descr ""))
+)
