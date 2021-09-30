@@ -1106,7 +1106,7 @@
   (gr_line (start 25.4 114.3) (end 114.3 114.3) (layer "Edge.Cuts") (width 0.254) (tstamp 00000000-0000-0000-0000-00005b69e0d6))
   (gr_line (start 25.4 25.4) (end 114.3 25.4) (layer "Edge.Cuts") (width 0.254) (tstamp 00000000-0000-0000-0000-00005b69e0d9))
   (gr_line (start 25.4 25.4) (end 25.4 114.3) (layer "Edge.Cuts") (width 0.254) (tstamp 5c9649d5-60ad-4025-b0b6-255060268103))
-  (gr_text "DIP40EXT-PIN\nR6\n© 2021 Labsmore LLC" (at 55.88 107.95) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00005b69e0a6)
+  (gr_text "DIP40EXT-PIN\nR6 {dblquote}John Quincy Adams{dblquote}\n© 2021 Labsmore LLC" (at 55.88 107.95) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00005b69e0a6)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
 
