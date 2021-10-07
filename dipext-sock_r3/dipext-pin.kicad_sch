@@ -5,9 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "Dipext_pin")
+    (title "Dipext_sock")
     (date "2021-08-28")
-    (rev "R6")
+    (rev "R3")
   )
 
   (lib_symbols
