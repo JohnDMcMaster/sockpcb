@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri /home/mcmaster/doc/ext/bbb-scope/lib)(options "")(descr ""))
+  (lib (name SS-60000-008)(type Legacy)(uri /home/mcmaster/doc/ext/bbb-scope/lib/SS-60000-008.mod)(options "")(descr ""))
+)
