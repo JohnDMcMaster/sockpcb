@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dipext-pin_r4-rescue")(type "KiCad")(uri "${KIPRJMOD}/dipext-pin_r4-rescue.kicad_sym")(options "")(descr ""))
+)
