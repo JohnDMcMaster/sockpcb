@@ -2,3 +2,5 @@
 *.bck
 *.kicad_pcb-bak
 *.net
+*-backups
+.DS_Store
